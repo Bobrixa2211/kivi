@@ -115,3 +115,27 @@ input{
     font-size: 50px;
     font-family: 'Montserrat', sans-serif;
 }
+@media (orientation:portaint) or (max-width:600px) {
+    .primer{
+        font-size: 50px;
+    }
+    .variation{
+        font-size: 30px;
+    }
+    .txt-primechanie{
+        font-size: 30px;
+    }
+    .btn-start{
+        font-size: 50px;
+    }
+    .time{
+        font-size: 30px;
+    }
+    .time-form{
+        font-size: 30px;
+    }
+    input{
+        height: 20px;
+        width: 100px;
+    }
+}
